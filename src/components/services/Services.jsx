@@ -102,10 +102,10 @@ const Services = () => {
                 className="uil uil-times services__modal-close"
               ></i>
 
-              <h3 className="services__modal-title">UI/UX Designer</h3>
+              <h3 className="services__modal-title">Laravel Developer</h3>
               <p className="services__modal-description">
-                Service with more than 2 years of experience. Providing quality
-                work to clients and companies.
+                Working with Laravel project with more than 2 years of
+                experience
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-services">
@@ -159,10 +159,10 @@ const Services = () => {
                 className="uil uil-times services__modal-close"
               ></i>
 
-              <h3 className="services__modal-title">Visual Designer</h3>
+              <h3 className="services__modal-title">React Developer</h3>
               <p className="services__modal-description">
-                Service with more a years of experience. Providing quality work
-                to clients and companies.
+                having a good year experience providing quality clients side
+                page with react.
               </p>
               <ul className="services__modal-services grid">
                 <li className="services__modal-services">
@@ -187,7 +187,8 @@ const Services = () => {
                 <li className="services__modal-services">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I position your company brand.
+                    having a good knowledge about usestate, props and form
+                    event.
                   </p>
                 </li>
               </ul>

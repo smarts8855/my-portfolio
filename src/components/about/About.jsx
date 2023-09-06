@@ -17,9 +17,10 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Software developer, I create software application using node js,
-            express,mongodb and react, I have years of experience and many
-            clients are happy with the project carried out.
+            Software developer, I create software application using node
+            js,laravel,MySql, express,mongodb and react, I have years of
+            experience and I have build different project with the skill i have
+            aquired.
           </p>
 
           <a download="" href={CV} className="button button_flex">
