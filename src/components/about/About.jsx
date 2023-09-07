@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/tunde_11.png";
+import AboutImg from "../../assets/tunde.jpg";
 import CV from "../../assets/Tunde-CV.pdf";
 import Info from "./Info";
 
